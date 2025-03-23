@@ -1,0 +1,11 @@
+Model Information:
+* title:	Elena of Avalor - Crown
+* source:	https://sketchfab.com/3d-models/elena-of-avalor-crown-69c39084aaf24057a796c9b3f558fd52
+* author:	Jorge Vásquez Pérez (https://sketchfab.com/yorchnet)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Elena of Avalor - Crown" (https://sketchfab.com/3d-models/elena-of-avalor-crown-69c39084aaf24057a796c9b3f558fd52) by Jorge Vásquez Pérez (https://sketchfab.com/yorchnet) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

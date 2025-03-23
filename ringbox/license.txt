@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ring Box Animation
+* source:	https://sketchfab.com/3d-models/ring-box-animation-bf525302fd4147428de3d182e7b5e1f3
+* author:	mr.himumz (https://sketchfab.com/mr.himumz)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ring Box Animation" (https://sketchfab.com/3d-models/ring-box-animation-bf525302fd4147428de3d182e7b5e1f3) by mr.himumz (https://sketchfab.com/mr.himumz) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
