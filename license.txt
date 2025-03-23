@@ -1,0 +1,8 @@
+Model Information:
+* title:	Egyptian People
+* source:	https://sketchfab.com/3d-models/egyptian-people-b24eba1c3d56439a9dda74fc84065c37
+* author:	Trident.AI (https://sketchfab.com/Trident.AI)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
